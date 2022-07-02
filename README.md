@@ -1,8 +1,5 @@
 # Emoji Fabrikası
 
-![Build Status](https://app.travis-ci.com/epbalaban01/DiziFilm.svg?branch=main)
-
-# Emoji Fabrikası
 Emoji fabrika web sitelerde kullanmak için kullanılır. Programın yapabildiklerini ve ileride yapabileceklerini aşağıda belirttim. Program Visual Studio 2017 ortamında C# programlama dili kullanarak geliştirilmiştir.
 
 <b>Desteklenen Diller</b>
