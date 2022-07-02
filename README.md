@@ -14,13 +14,6 @@ Emoji fabrika web sitelerde kullanmak için kullanılır. Programın yapabildikl
 <b>Özellikler</b>
 
 - [x] Web site de emoji eklendi.
-- [x] Ayarlar paneli ufak bir değişikler yapıldı.
-- [x] Film panelinde olan saat hatası sorun giderildi.
-- [x] Veritabanı Yedekle paneli eklendi.
-- [x] Şifremi Unuttum panelinde mail gönderme hatası sorun giderildi.
-- [x] Destek paneli eklendi ve mail ile gönderme bir sonraki güncelleme de eklenecek.
-
-
 
 <b>Eklenebilecek Özellikler</b>
 
@@ -29,15 +22,11 @@ Emoji fabrika web sitelerde kullanmak için kullanılır. Programın yapabildikl
 - [ ] İngilizce dil eklenebilir.
 - [ ] Emoji den link oluşturabilir.
 
-
-
-
 <b>Ekran Görüntüleri</b>
 |   |   |
 |---|---|
 | ![Ekran görüntüsü 2022-07-02 114426](https://user-images.githubusercontent.com/42430554/176993952-c6d69dee-6734-4cce-b70a-55ba1f437f77.png) |
 | ![Ekran görüntüsü 2022-07-02 114449](https://user-images.githubusercontent.com/42430554/176993959-6ae83683-f188-4c99-8048-fbbd56d36a77.png) |
-
 
 #
 <b>Programcıdan Notlar</b>
